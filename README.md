@@ -1,0 +1,2 @@
+# randnote
+Random thoughts
